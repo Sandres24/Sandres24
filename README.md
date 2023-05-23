@@ -11,9 +11,9 @@ const aboutMe = {
          js: ["React"],
       },
       backEnd: {
-         js: ["basic Node", "basic Express"],
+         js: ["Nodejs", "Express"],
       },
-      databases: ["MongoDB"],
+      databases: ["SQL", "MongoDB"],
    },
    currentOccupation: ["student, open for job opportunities"],
 };
