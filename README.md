@@ -1,7 +1,3 @@
-<p><em>Student at <a href="https://www.academlo.com">Academlo</a>, Full Stack Web Development and Computer Science. 💻</br>
-</em></p>
-
-
 ```javascript
 const aboutMe = {
    pronouns: "he" | "him",
