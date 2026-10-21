@@ -1,20 +1,12 @@
-```javascript
-const aboutMe = {
-   pronouns: "he" | "him",
-   code: ["Javascript", "basic TypeScript", HTML, CSS],
-   technologies: {
-      frontEnd: {
-         js: ["React"],
-      },
-      backEnd: {
-         js: ["Nodejs", "Express"],
-      },
-      databases: ["SQL", "MongoDB"],
-   },
-   currentOccupation: ["student, open for job opportunities"],
-};
-```
-</br></br>
-<h2><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> Some stats <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"></h2>
+# Sergio Monsalve
 
-![Reeveng's github stats](https://github-readme-stats.vercel.app/api?username=reeveng&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+**Full Stack Developer (enfoque Frontend)** · Valledupar, Colombia · Remoto
+
+4+ años construyendo aplicaciones web en producción con React, Next.js y TypeScript.
+Actualmente profundizo en backend con NestJS (microservicios), PostgreSQL y Docker.
+
+## Stack
+TypeScript · JavaScript · React · Next.js · Redux Toolkit · Node.js · NestJS · PostgreSQL · Docker · Git
+
+## Contacto
+[LinkedIn](https://www.linkedin.com/in/sergiomonsalve-dev) · [Portafolio](https://sergio-monsalve-portfolio.netlify.app)
